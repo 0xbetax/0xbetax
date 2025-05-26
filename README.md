@@ -27,5 +27,6 @@ Web3 Dev | Building Farcaster Frames | Crypto Hunter | [@0xbetax_eth](https://x.
 
 ## Connect
 <p align="center">
+  <a href="https://warpcast.com/0xbetax.eth"><img src="https://raw.githubusercontent.com/0xbetax/farcaster-quiz-beta/main/screenshots/farcaster-logo.png" alt="Farcaster" height="30"/></a>
   <a href="https://x.com/0xbetax_eth"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
 </p>
