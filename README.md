@@ -1,15 +1,15 @@
 # Hey, I'm Beta! 🚀
 
-Web3 Dev | Building Farcaster Frames | Crypto Hunter | [@0xbetax_eth](https://x.com/0xbetax_eth)
+Web3 Dev | Building Farcaster Frames | Crypto Hunter
 
 <p align="center">
-  <img src="https://iili.io/3bIDDve.png" alt="Farcaster Banner" width="300"/>
+  <a href="https://farcaster.xyz/0xbetax.eth"><img src="https://iili.io/3mIYqOb.png" alt="Farcaster" height="30"/></a>
 </p>
 
 ## About Me
-- 🧑‍💻 Passionate about Web3, DeFi, and Farcaster
-- 🌌 Exploring airdrops and cross-chain tech
-- 📩 Reach me on X: [@0xbetax_eth](https://x.com/0xbetax_eth)
+- 🧑‍💻 Crafting frames for Farcaster and exploring DeFi
+- 🌌 Hunting airdrops and cross-chain tech
+- 📩 Reach me on Farcaster: [@0xbetax.eth](https://farcaster.xyz/0xbetax.eth)
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
@@ -24,9 +24,3 @@ Web3 Dev | Building Farcaster Frames | Crypto Hunter | [@0xbetax_eth](https://x.
 
 ## Featured Project
 🔍 **[Farcaster Quiz Beta](https://github.com/0xbetax/farcaster-quiz-beta)**: A Web3 quiz frame for Farcaster with daily crypto questions.
-
-## Connect
-<p align="center">
-  <a href="https://farcaster.xyz/0xbetax.eth"><img src="[https://raw.githubusercontent.com/0xbetax/farcaster-quiz-beta/main/screenshots/farcaster-logo.png](https://iili.io/3mIYqOb.png)" alt="Farcaster" height="30"/></a>
-  <a href="https://x.com/0xbetax_eth"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
-</p>
