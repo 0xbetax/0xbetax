@@ -1,26 +1,20 @@
-# Hey, I'm Beta! 🚀
+# Hey, Beta!
 
-Web3 Dev | Building Farcaster Frames | Crypto Hunter
+Web3 Dev | Building Farcaster Frames | Crypto Enthusiast
 
-<p align="center">
-  <a href="https://farcaster.xyz/0xbetax.eth"><img src="https://iili.io/3mIYqOb.png" alt="Farcaster" height="30"/></a>
-</p>
+<a href="https://farcaster.xyz/0xbetax.eth">
+  <img src="https://iili.io/3mIYqOb.png" alt="Farcaster" height="30"/>
+</a>
 
 ## About Me
-- 🧑‍💻 Crafting frames for Farcaster and exploring DeFi
+- 🧑‍💻 Crafting frames for Farcaster and diving into DeFi
 - 🌌 Hunting airdrops and cross-chain tech
-- 📩 Reach me on Farcaster: [@0xbetax.eth](https://farcaster.xyz/0xbetax.eth)
+- 📩 Catch me on Farcaster: [@0xbetax.eth](https://farcaster.xyz/0xbetax.eth)
 
 ## Skills
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Flask](https://img.shields.io/badge/Flask-Web-green)
-![Web3](https://img.shields.io/badge/Web3-Blockchain-purple)
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xbetax&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbetax&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+- Python
+- Flask
+- Web3
 
 ## Featured Project
-🔍 **[Farcaster Quiz Beta](https://github.com/0xbetax/farcaster-quiz-beta)**: A Web3 quiz frame for Farcaster with daily crypto questions.
+🔍 [Farcaster Quiz Beta](https://github.com/0xbetax/farcaster-quiz): A Web3 quiz frame for Farcaster with daily questions.
