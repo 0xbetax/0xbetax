@@ -1,4 +1,4 @@
-# Hey, Beta!
+# Hey, I'M Beta!
 
 Web3 Dev | Building Farcaster Frames | Crypto Enthusiast
 
